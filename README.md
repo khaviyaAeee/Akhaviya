@@ -21,7 +21,7 @@
 * 🏭 I have completed impactful internships at Power Grid Corporation of India Limited (PGCIL), Cluster Energy, and Retech Solutions Pvt. Ltd.
 * 🏆 I actively compete in tech initiatives, recently ranking as a finalist in the top 25 at the Anna University National-Level Paper Presentation and the top 50 at the SheShines Hexaware hackathon.
 * 🧠 I hold certifications in AWS Security Fundamentals, Cybersecurity (Takshashila 2024), and NPTEL Problem Solving Through Programming in C.
-* 📫 How to reach me: **akhaviya.eee@gmail.com** or +91 7395990144.
+* 📫 How to reach me: **akhaviya.eee@gmail.com** 
 
 ---
 
