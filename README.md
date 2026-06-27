@@ -17,10 +17,10 @@
 
 ### 💫 About Me
 
-* 🎓 I’m currently pursuing a B.E. in Electrical and Electronics Engineering at Panimalar Engineering College [2023-2027], recently achieving an 8.667 GPA in my fifth semester.
-* 🏭 I have completed impactful internships at Power Grid Corporation of India Limited (PGCIL), Cluster Energy, and Retech Solutions Pvt. Ltd.
-* 🏆 I actively compete in tech initiatives, recently ranking as a finalist in the top 25 at the Anna University National-Level Paper Presentation and the top 50 at the SheShines Hexaware hackathon.
-* 🧠 I hold certifications in AWS Security Fundamentals, Cybersecurity (Takshashila 2024), and NPTEL Problem Solving Through Programming in C.
+* 🎓 I’m currently pursuing a B.E. in Electrical and Electronics Engineering at Panimalar Engineering College [2023-2027], With a CGPA of 8.71 till my Sixth semester
+* 🏭 I have completed impactful internships at Power Grid Corporation of India Limited (PGCIL), Cluster Energy, and Retech Solutions Pvt. Ltd
+* 🏆 I actively compete in tech initiatives, recently ranking as a finalist in the top 25 at the Anna University National-Level Paper Presentation and the top 50 at the SheShines Hexaware hackathon
+* 🧠 I hold certifications in AWS Security Fundamentals,Nasscom FutureSkillsPrime Data Acquisition with securing 83% and awrded with Gold Certification, Infosys Springboard Python Development and Internet Of Things and also NPTEL Problem Solving Through Programming in C.
 * 📫 How to reach me: **akhaviya.eee@gmail.com** or +91 7395990144.
 
 ---
